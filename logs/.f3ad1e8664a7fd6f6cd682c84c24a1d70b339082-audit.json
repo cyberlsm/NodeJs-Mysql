@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\Source\\NodeJs\\mysql_API\\logs\\.f3ad1e8664a7fd6f6cd682c84c24a1d70b339082-audit.json",
+    "files": [
+        {
+            "date": 1701650566768,
+            "name": "D:\\Source\\NodeJs\\mysql_API\\logs\\2023-12-04.exception.log",
+            "hash": "8f2c3991ec8d65517e6161feff97d5760391b80ab033b61d9f0135021bce89f5"
+        },
+        {
+            "date": 1701850051582,
+            "name": "D:\\Source\\NodeJs\\mysql_API\\logs\\2023-12-06.exception.log",
+            "hash": "7dae11470168a4d8b413bd6b41f8ff9403d7986ff68eef402743b52d9cf79aa7"
+        },
+        {
+            "date": 1702273516992,
+            "name": "D:\\Source\\NodeJs\\mysql_API\\logs\\2023-12-11.exception.log",
+            "hash": "2aca9b415e0a205f357ea0ff53af8e3f74601bcb282c1256536997ebd489a735"
+        }
+    ],
+    "hashType": "sha256"
+}

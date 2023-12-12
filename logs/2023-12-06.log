@@ -1,0 +1,18 @@
+2023-12-06 17:07:52 [] info: GET /swagger/ 304 4.591 ms - -
+
+2023-12-06 17:07:52 [] info: GET /swagger/swagger-ui.css 304 1.438 ms - -
+
+2023-12-06 17:07:52 [] info: GET /swagger/swagger-ui-bundle.js 304 0.901 ms - -
+
+2023-12-06 17:07:52 [] info: GET /swagger/swagger-ui-init.js 304 0.676 ms - -
+
+2023-12-06 17:07:52 [] info: GET /swagger/swagger-ui-standalone-preset.js 304 6.416 ms - -
+
+2023-12-06 17:07:53 [] info: GET /swagger/favicon-32x32.png 304 0.416 ms - -
+
+2023-12-06 17:08:06 [] info: GET /api/user 500 10163.119 ms - 7
+
+2023-12-06 17:17:54 [] info: GET /api/user 500 10073.133 ms - 7
+
+2023-12-06 17:17:54 [] info: GET /favicon.ico 404 2.435 ms - 150
+

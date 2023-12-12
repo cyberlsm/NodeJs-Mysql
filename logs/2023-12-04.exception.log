@@ -1,0 +1,41 @@
+2023-12-04 10:21:28 [] error: uncaughtException: Cannot find module './data-access/data-config'
+Require stack:
+- D:\Source\NodeJs\mysql_API\index.js
+Error: Cannot find module './data-access/data-config'
+Require stack:
+- D:\Source\NodeJs\mysql_API\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (D:\Source\NodeJs\mysql_API\index.js:4:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+2023-12-04 10:22:44 [] error: uncaughtException: Cannot find module './data-access/data-config'
+Require stack:
+- D:\Source\NodeJs\mysql_API\index.js
+Error: Cannot find module './data-access/data-config'
+Require stack:
+- D:\Source\NodeJs\mysql_API\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (D:\Source\NodeJs\mysql_API\index.js:4:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+2023-12-04 10:23:13 [] error: uncaughtException: getDataConfig is not defined
+ReferenceError: getDataConfig is not defined
+    at Object.<anonymous> (D:\Source\NodeJs\mysql_API\index.js:22:20)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49

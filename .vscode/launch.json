@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/test/mysql2_step2.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "type": "chrome",
+            "name": "http://localhost:8080/api/user",
+            "request": "launch",
+            "url": "http://localhost:8080/swagger"
+        }
+    ]
+}

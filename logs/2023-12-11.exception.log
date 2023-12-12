@@ -1,0 +1,98 @@
+2023-12-11 15:55:41 [] error: uncaughtException: baseresult is not defined
+ReferenceError: baseresult is not defined
+    at D:\Source\NodeJs\mysql_API\routers\user\index.js:36:37
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-12-11 15:56:10 [] error: uncaughtException: baseresult is not defined
+ReferenceError: baseresult is not defined
+    at D:\Source\NodeJs\mysql_API\routers\user\index.js:36:37
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-12-11 15:56:51 [] error: uncaughtException: baseresult is not defined
+ReferenceError: baseresult is not defined
+    at D:\Source\NodeJs\mysql_API\routers\user\index.js:36:37
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-12-11 15:57:10 [] error: uncaughtException: baseresult is not defined
+ReferenceError: baseresult is not defined
+    at D:\Source\NodeJs\mysql_API\routers\user\index.js:36:37
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-12-11 15:57:49 [] error: uncaughtException: baseresult is not defined
+ReferenceError: baseresult is not defined
+    at D:\Source\NodeJs\mysql_API\routers\user\index.js:36:37
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-12-11 15:58:04 [] error: uncaughtException: baseresult is not defined
+ReferenceError: baseresult is not defined
+    at D:\Source\NodeJs\mysql_API\routers\user\index.js:36:37
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-12-11 15:58:05 [] error: uncaughtException: baseresult is not defined
+ReferenceError: baseresult is not defined
+    at D:\Source\NodeJs\mysql_API\routers\user\index.js:36:37
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-12-11 17:01:56 [] error: uncaughtException: 강제 오류발생
+Error: 강제 오류발생
+    at Timeout._onTimeout (D:\Source\NodeJs\mysql_API\app.js:17:11)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-12-11 17:01:57 [] error: uncaughtException: 강제 오류발생
+Error: 강제 오류발생
+    at Timeout._onTimeout (D:\Source\NodeJs\mysql_API\app.js:17:11)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-12-11 17:01:58 [] error: uncaughtException: 강제 오류발생
+Error: 강제 오류발생
+    at Timeout._onTimeout (D:\Source\NodeJs\mysql_API\app.js:17:11)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-12-11 17:01:59 [] error: uncaughtException: 강제 오류발생
+Error: 강제 오류발생
+    at Timeout._onTimeout (D:\Source\NodeJs\mysql_API\app.js:17:11)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-12-11 17:02:08 [] error: uncaughtException: 강제 오류발생
+Error: 강제 오류발생
+    at Timeout._onTimeout (D:\Source\NodeJs\mysql_API\app.js:17:11)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-12-11 17:02:09 [] error: uncaughtException: 강제 오류발생
+Error: 강제 오류발생
+    at Timeout._onTimeout (D:\Source\NodeJs\mysql_API\app.js:17:11)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-12-11 17:02:10 [] error: uncaughtException: 강제 오류발생
+Error: 강제 오류발생
+    at Timeout._onTimeout (D:\Source\NodeJs\mysql_API\app.js:17:11)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-12-11 17:02:26 [] error: uncaughtException: 강제 오류발생
+Error: 강제 오류발생
+    at Timeout._onTimeout (D:\Source\NodeJs\mysql_API\app.js:17:11)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-12-11 17:02:27 [] error: uncaughtException: 강제 오류발생
+Error: 강제 오류발생
+    at Timeout._onTimeout (D:\Source\NodeJs\mysql_API\app.js:17:11)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-12-11 17:02:28 [] error: uncaughtException: 강제 오류발생
+Error: 강제 오류발생
+    at Timeout._onTimeout (D:\Source\NodeJs\mysql_API\app.js:17:11)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-12-11 17:04:19 [] error: uncaughtException: 강제 오류발생
+Error: 강제 오류발생
+    at Timeout._onTimeout (D:\Source\NodeJs\mysql_API\app.js:18:11)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-12-11 17:04:47 [] error: uncaughtException: 강제 오류발생
+Error: 강제 오류발생
+    at Timeout._onTimeout (D:\Source\NodeJs\mysql_API\app.js:18:11)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-12-11 17:04:48 [] error: uncaughtException: 강제 오류발생
+Error: 강제 오류발생
+    at Timeout._onTimeout (D:\Source\NodeJs\mysql_API\app.js:18:11)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-12-11 17:04:49 [] error: uncaughtException: 강제 오류발생
+Error: 강제 오류발생
+    at Timeout._onTimeout (D:\Source\NodeJs\mysql_API\app.js:18:11)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
